@@ -6,5 +6,5 @@
 
 ### This Repo contains part of the project in which search and comparison of lightweght and CPU efficient models for face mask recognition are implemented.
 ### Webcam.py script runs webcam test inference
-The table representing results of various models inference time estimation can be accessed via link - https://docs.google.com/spreadsheets/d/1P-sp0KVNsIJm9T4jeaxYO53NETjuW_dr4QZKUN6bujc/edit#gid=0
+The table representing results of various models inference time estimation can be found [here](https://github.com/BigDataSeeker/FaceMask_presence/blob/main/FaceMask_model%20comparison.csv)
 
